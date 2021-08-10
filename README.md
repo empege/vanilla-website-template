@@ -1,4 +1,4 @@
-# website-template
+# Website-template (Vanilla JS)
 
 Trying to make a website template using vanilla js for creating reusable components.
 
